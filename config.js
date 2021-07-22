@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
-global.owner = ['6281390658325', '6282256115584', '6285713964963']// Put your number here
+global.linkGC = ['https://chat.whatsapp.com/JAmAy1WEN7O9XdLGvww5zg']
+global.owner = ['6282285855034', '628877516865']// Put your number here
 global.mods = ['13479805233'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -24,8 +24,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot Is The Best'
+global.packname = 'ARH BOT'
+global.author = '@ARH'
 
 global.multiplier = 39 // The higher, The harder levelup
 
